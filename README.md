@@ -34,7 +34,7 @@ I'm Hasanboy, a 18 years old web developer from Uzbekistan :relaxed:.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khasanboy-06&label=Profile%20views&color=0e75b6&style=flat" alt="khasanboy-06" /> </p>
 
-- 🌱 I’m currently learning **python , django , telegram bot, Ai, PostgreSQL**
+- 🌱 I’m currently learning **Python, C, Django, Telegram Bot, PostgreSQL, GitHub, Html, Css, SOLID, DRY, KISS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/khasanboy-06/Khasanboy](https://github.com/khasanboy-06/Khasanboy)
 
