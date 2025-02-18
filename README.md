@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khasanboy-06)](https://github.com/khasanboy-06/github-readme-stats)
 
 ## Hey! 👋
-I'm Hasanboy, a 18 years old web developer from Uzbekistan :relaxed:.
+I'm Hasanboy, a 19 years old web developer from Uzbekistan :relaxed:.
 - <hr/>
 
 <div align="center">
